@@ -98,4 +98,4 @@ React 18 · JavaScript (ES6+) · CSS · Vite
 
 ## Live demo
 
-Add your deployed link here.
+https://yojit27.github.io/Quizapp--Devcamp-task-2/
